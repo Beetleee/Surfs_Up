@@ -9,10 +9,10 @@ I am tasked to analyze specific dates for weather in Hawaii as my Client wants t
 ## Results
 
 ### Deliverable #1: working query of June's temperature statistics over time
-![June Temperate Statistics](https://github.com/Tavender22/surfs_up/blob/master/December%20Temp%20Stats.png)
+![]()
 
 ### Deliverable #2: working query of December’s temperature statistics over time
-![June Temperate Statistics](https://github.com/Tavender22/surfs_up/blob/master/December%20Temp%20Stats.png)
+![]()
 
 ### Deliverable #3: These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
 - 1) Avg temperature between June and December is 75 and 71 degrees, which reflects not a big change in temperature
