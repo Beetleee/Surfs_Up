@@ -9,7 +9,7 @@ I am tasked to analyze specific dates for weather in Hawaii as my Client wants t
 ## Results
 
 ### Deliverable #1: working query of June's temperature statistics over time
-![]()
+![](https://github.com/Beetleee/Surfs_Up/blob/main/Resources/June%20stats.png)
 
 ### Deliverable #2: working query of December’s temperature statistics over time
 ![](https://github.com/Beetleee/Surfs_Up/blob/main/Resources/Dec%20stats.png)
